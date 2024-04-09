@@ -68,6 +68,3 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-```
-
-Puedes copiar el contenido anterior y pegarlo en un archivo llamado `README.md` en la raíz de tu repositorio. Recuerda personalizar las secciones según las necesidades específicas de tu proyecto.
