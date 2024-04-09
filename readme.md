@@ -1,5 +1,3 @@
-Claro, aquí tienes un README.md que puedes copiar y pegar para tu proyecto:
-
 ```markdown
 # Proyecto de API con FastAPI y PostgreSQL
 
